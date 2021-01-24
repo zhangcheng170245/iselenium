@@ -12,6 +12,7 @@ import java.io.*;
 import java.util.Properties;
 
 public abstract class WebUIBase {
+
     private Logger logger = Logger.getLogger(WebUIBase.class);
     private String propFileName = "iselenium.properties";
 
